@@ -30,10 +30,8 @@ namespace Tests.SDET.Tests
             var sut = new OurProcessor(loggerMock.Object);
 
             // act
-            var response = sut.GetHash("ThisStringContainsPasswordInIt!");
-
             // assert
-            Assert.Equal("eb6dadbf06b64cfde0b4a412bcccbfa35e4dbe665e6200361558ca433186de23", response);
+            Assert.Throws<Exception>(() => sut.GetHash("ThisStringContainsPasswordInIt!"));
         }
     }
 }

@@ -28,6 +28,18 @@ namespace Tests.SDET.Controllers
             return View();
         }
 
+        public IActionResult JustChrome()
+        {
+            if (Request.Headers["User-Agent"].ToString().Contains("Chrome"))
+            {
+                return View();
+            }
+            else
+            {
+                throw new Exception("This page is only visible in Chrome");
+            }
+        }
+
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {

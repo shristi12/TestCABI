@@ -5,9 +5,14 @@ VisualStudioVersion = 16.0.30320.27
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tests.SDET", "Tests.SDET\Tests.SDET.csproj", "{F899413D-1978-4B92-A629-1BBACBE9486A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests.SDET.Tests", "Tests.SDET.Tests\Tests.SDET.Tests.csproj", "{D46E572D-AE02-418C-9DBF-AF90F2A7980E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tests.SDET.Tests", "Tests.SDET.Tests\Tests.SDET.Tests.csproj", "{D46E572D-AE02-418C-9DBF-AF90F2A7980E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests.SDET.Specs", "Tests.SDET.Specs\Tests.SDET.Specs.csproj", "{EF31DD41-212C-46B2-B10A-236A02A407AE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tests.SDET.Specs", "Tests.SDET.Specs\Tests.SDET.Specs.csproj", "{EF31DD41-212C-46B2-B10A-236A02A407AE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Files", "Solution Files", "{C1CE51CB-7E88-4E51-AD0E-34CFD1B603A2}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
