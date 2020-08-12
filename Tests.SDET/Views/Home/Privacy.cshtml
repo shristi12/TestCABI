@@ -1,6 +1,15 @@
 ﻿@{
     ViewData["Title"] = "Privacy Policy";
 }
+<script type="text/javascript">
+    function replaceBob() {
+        document.getElementById('replaceText').innerHTML = 'Fred';
+    }
+</script>
 <h1>@ViewData["Title"]</h1>
 
 <p>Use this page to detail your site's privacy policy.</p>
+
+<p><button onclick="replaceBob()">Replace Bob</button></p>
+
+<p id="replaceText">Bob</p>
