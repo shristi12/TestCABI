@@ -64,6 +64,6 @@ As a developer
 I want a new method adding to OurProcessor that can add two positive numbers together  
 So that I don't have to check numbers are positive each time I add them  
 A/C  
-Does adding 3 and 5 result in the answer 8?
-Does adding 8 and 6 result in the answer 14?
+Does adding 3 and 5 result in the answer 8?  
+Does adding 8 and 6 result in the answer 14?  
 Does trying to add zero or a negative number result in an error being thrown?
