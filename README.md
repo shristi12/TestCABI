@@ -1,11 +1,18 @@
 # Introduction 
 This is a simple practical test for an SDET role at CABI.
 
-# Getting Started
+# General Overview
 The entire interview process is as follows
 1.	Telephone interview (one-to-one)
 2.	Practical test (a series of tasks for the candidate to perform to check skills and understand)
-3.	Face-to-face interview (conducted with future line manager and one or two other managers) via Zoom - please ensure this is installed ahead of the interview process
+3.	Face-to-face interview (conducted with future line manager and one or two other managers) via Zoom
+
+# Pre-Test Requirements
+Ahead of the practical test and face-to-face interview, please ensure you have access to the following:
+- Zoom installed on your computer - https://zoom.us/download#client_4meeting (you don't need an account)
+- Visual Studio installed on your computer (ideally 2019, any edition will do)
+- SpecFlow extension installed
+- A GitHub account set up and shared with CABI at least 4 hours before the test is scheduled to start
 
 # Practical test
 - The practical test is a .NET Core 3.1 soliution features a simple webapp, xUnit Tests project (for traditional unit tests) and an xUnit Specs for project for BDD-style tests using SpecFlow.
