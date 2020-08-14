@@ -7,10 +7,11 @@ The entire interview process is as follows
 2.	Practical test (a series of tasks for the candidate to perform to check skills and understand)
 3.	Face-to-face interview (conducted with future line manager and one or two other managers) via Zoom
 
-# Pre-Test Requirements
+# Pre-Test & Interview Requirements
 Ahead of the practical test and face-to-face interview, please ensure you have access to the following:
 - Zoom installed on your computer - https://zoom.us/download#client_4meeting (you don't need an account)
-- Visual Studio installed on your computer (ideally 2019, any edition will do)
+- Visual Studio installed on your computer (ideally 2019, any edition will do including Community Edition)
+- .NET Core 3.1 installed and usable in a project in Visual Studio
 - SpecFlow extension installed
 - A GitHub account set up and shared with CABI at least 4 hours before the test is scheduled to start
 
@@ -20,15 +21,17 @@ Ahead of the practical test and face-to-face interview, please ensure you have a
 - Note: This test is not necessarily an example of best practice in all cases, sometimes deliberately so, but rather is for the purposes of testing your knowledge and understanding and providing suitable discussions points in a face-to-face interview.
 
 ## How to complete the test
-- Log into GitHub and take a clone of the repo
+- Log in to GitHub and take a clone of the repo https://github.com/cabi-org/Test.SDET.2020
 - Create a new branch from master called your name (e.g. if your name as shown on your CV is Joan B. Smith, call the branch joan-b-smith)
 - Complete the tasks below, committing your answers locally as you see fit to your branch
 - For questions, update the README.md file to include answers at the appropriate point in the file
 - Once you've completed the test or your time is about to elapse, push your changes to origin.
-- Access will be granted to the repo for your user at the start of the test window and removed at the end of your alloted time
+- Access will be granted to the repo for your GitHub account at the start of the test window and removed at the end of your alloted time
+- We will try to give you a 1 minute warning via Zoom however you are responsible for knowing when your time is up
+- You will have **nn minutes** to complete the test
 
 # Tasks and Questions
-Each task should be doable independently of the other tasks unless otherwise stated.
+Each task should be doable independently of the other tasks.
 
 1.  Refactor the HomePage feature scenario so the three social media scenarios are condensed into one (this includes the scenarios are steps)
 2.  Implement the tests required to test the scenarios described in JustChrome.feature using Selenium or similar
