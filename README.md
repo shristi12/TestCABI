@@ -36,7 +36,7 @@ Each task should be doable independently of the other tasks.
 1.  Refactor the HomePage feature scenario so the three social media scenarios are condensed into one (this includes the scenarios are steps)
 2.  Implement the tests required to test the scenarios described in JustChrome.feature using Selenium or similar
 3.  Review user stories 1, 2 and 3 below and indicate if they should pass or fail a manual QA process.  If they fail, indicate why.  Also note if you think the story is written well or not, regardless of whether it passes testing.
-4.  Using TDD, implement user story 4 below.  Add the code to the existing OurProcessor.cs class and add the tests to the OurProcessorShould.cs class in Tests.SDET.Tests.  To show your approach, commit each stage and add a comment of Q3a, Q3b, Q3c, etc... for each iteration
+4.  Using TDD, implement user story 4 below.  Add the code to the existing OurProcessor.cs class and add the tests to the OurProcessorShould.cs class in Tests.SDET.Tests.  To show your approach, commit each stage and add a comment of Q4a, Q4b, Q4c, etc... for each iteration. 
 
 ## Story 1
 As a marketing executive  
