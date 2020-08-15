@@ -28,7 +28,8 @@ Ahead of the practical test and face-to-face interview, please ensure you have a
 - Once you've completed the test or your time is about to elapse, push your changes to origin.
 - Access will be granted to the repo for your GitHub account at the start of the test window and removed at the end of your alloted time
 - We will try to give you a 1 minute warning via Zoom however you are responsible for knowing when your time is up
-- You will have **nn minutes** to complete the test
+- You will have **60 minutes** to complete the test from receiving access to the repo
+- If you finish the test early, let us know
 
 # Tasks and Questions
 Each task should be doable independently of the other tasks.
@@ -36,7 +37,7 @@ Each task should be doable independently of the other tasks.
 1.  Refactor the HomePage feature scenario so the three social media scenarios are condensed into one (this includes the scenarios are steps)
 2.  Implement the tests required to test the scenarios described in JustChrome.feature using Selenium or similar
 3.  Review user stories 1, 2 and 3 below and indicate if they should pass or fail a manual QA process.  If they fail, indicate why.  Also note if you think the story is written well or not, regardless of whether it passes testing.
-4.  Using TDD, implement user story 4 below.  Add the code to the existing OurProcessor.cs class and add the tests to the OurProcessorShould.cs class in Tests.SDET.Tests.  To show your approach, commit each stage and add a comment of Q4a, Q4b, Q4c, etc... for each iteration. 
+4.  Using TDD, implement user story 4 below.  Add the code to the existing OurProcessor.cs class and add the tests, inside a region called TDD, to the OurProcessorShould.cs class in Tests.SDET.Tests.  To show your approach, commit each stage and add a comment of Q4a, Q4b, Q4c, etc... for each iteration. 
 
 ## Story 1
 As a marketing executive  
