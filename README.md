@@ -16,7 +16,7 @@ Ahead of the practical test and face-to-face interview, please ensure you have a
 - A GitHub account set up and shared with CABI at least 4 hours before the test is scheduled to start
 
 # Practical test
-- The practical test is a .NET Core 3.1 soliution features a simple webapp, xUnit Tests project (for traditional unit tests) and an xUnit Specs for project for BDD-style tests using SpecFlow.
+- The practical test is a .NET Core 3.1 solution features a simple webapp, xUnit Tests project (for traditional unit tests) and an xUnit Specs for project for BDD-style tests using SpecFlow.
 - Each of the tasks below should be completed to the best of your ability.  The test will then be reviewed and then discussed as part of your face-to-face interview.
 - Note: This test is not necessarily an example of best practice in all cases, sometimes deliberately so, but rather is for the purposes of testing your knowledge and understanding and providing suitable discussions points in a face-to-face interview.
 
