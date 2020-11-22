@@ -4,7 +4,7 @@ This is a simple practical test for an SDET role at CABI.
 # General Overview
 The entire interview process is as follows
 1.	Telephone interview (one-to-one)
-2.	Practical test (a series of tasks for the candidate to perform to check skills and understanding)
+2.	Practical test (a collection of tasks for the candidate to perform to check skills and understanding)
 3.	Face-to-face interview (conducted with future line manager and one or two other managers) via Zoom
 
 # Pre-Test & Interview Requirements
@@ -31,6 +31,7 @@ Ahead of the practical test and face-to-face interview, please ensure you have a
 - You will have **60 minutes** to complete the test from receiving access to the repo
 - If you finish the test early, let us know
 - You are permitted to use the Internet during this test as long as you are looking up information and not asking other people for answers
+- Please be aware, you will need to share your screen during the face-to-face interview to discuss your test
 
 # Tasks and Questions
 Each task should be doable independently of the other tasks.
