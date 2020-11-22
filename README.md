@@ -23,7 +23,7 @@ Ahead of the practical test and face-to-face interview, please ensure you have a
 
 ## How to complete the test
 - Log in to GitHub and take a clone of the repo https://github.com/cabi-org/Test.SDET.2020
-- If you are unable to clone the repo, use the "Download as Zip" option
+- If you are unable to clone the repo, use the "Download Zip" option
 - Complete the tasks below, committing your answers locally as you see fit
 - For questions, update the README.md file to include answers at the appropriate point in the file
 - Access will be granted to the repo for your GitHub account at the start of the test window and removed at the end of your alloted time
