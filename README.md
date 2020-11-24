@@ -48,8 +48,8 @@ So that users can easily find and follow us on popular social media platforms
 A/C  
 Are links for Facebook, Twitter and YouTube available on the home page?  
 
-Pass or fail: Pass/Fail 
-Story written well: Yes/No 
+Pass or fail: Pass/Fail  
+Story written well: Yes/No  
 Additional comments (if any):
 
 ## Story 2
@@ -60,8 +60,8 @@ A/C
 If a user accesses the browser test page on Internet Explorer, are they shown a suitable warning?  
 If a user accesses the browser test page on Chrome, are they shown the test page without error?  
 
-Pass or fail: Pass/Fail 
-Story written well: Yes/No 
+Pass or fail: Pass/Fail  
+Story written well: Yes/No  
 Additional comments (if any):
 
 ## Story 3
@@ -71,8 +71,8 @@ So that I don't have to change the name myself
 A/C  
 Is a JavaScript method implemented to change Bob to Fred?  
 
-Pass or fail: Pass/Fail 
-Story written well: Yes/No 
+Pass or fail: Pass/Fail  
+Story written well: Yes/No  
 Additional comments (if any):
 
 ## Story 4
