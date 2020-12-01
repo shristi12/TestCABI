@@ -1,8 +1,20 @@
-# Introduction 
-This is a simple practical test for an SDET role at CABI.
+# Introduction
+Thanks you for your interest in CABI and the role of SDET (Software Development Engineer in Test).  The role is based in our Delhi, India office and will involve working with a team of 15-person team to support our QA activities.
+This will include:
+- Manual testing of web, API and mobile app testing
+- Creating and maintaining automated regression tests using Selenium (Java)
+- Working with our software engineers to write and help them write better unit and integration tests (C# - .NET Framework, .NET Core 3.1 and .NET 5)
+- Working in our agile teams to review stories
+- Support the team in a move towards BDD
+
+# Required Skills and Experience
+- C# (.NET Framework, .NET Core 3.1 and .NET 5)
+- xUnit, NUnit or MS Test Testing Framework (xUnit preferred)
+- Selenium (Java-based ideally)
+- Agile (ideally scrum) Methodology
 
 # General Overview
-The entire interview process is as follows
+The interview process we will be following is as follows:
 1.	Telephone interview (one-to-one)
 2.	Practical test (a collection of tasks for the candidate to perform to check skills and understanding)
 3.	Face-to-face interview (conducted with future line manager and one or two other managers) via Zoom
